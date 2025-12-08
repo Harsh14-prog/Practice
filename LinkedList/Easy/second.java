@@ -1,6 +1,5 @@
 package LinkedList.Easy;
 
-import java.util.LinkedList;
 
 class Node {
     int data;

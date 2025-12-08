@@ -8,7 +8,6 @@ import java.util.List;
 public class eighth {
     public static void main(String[] args) {
         int[] nums = {4,3,1,1,2,5,2,5};
-        int n = nums.length ;
 
         HashSet<Integer> set = new HashSet<>();
 
