@@ -4,7 +4,6 @@ public class first {
     public static void main(String[] args) {
 
         int[] piles = { 3, 6, 7, 11 };
-        int n = piles.length;
         int H = 8;
 
         int l = 1;
