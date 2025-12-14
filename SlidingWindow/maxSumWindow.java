@@ -2,6 +2,7 @@ package SlidingWindow;
 
 public class maxSumWindow {
     public static void main(String[] args) {
+        
         int[] nums = { 1, 4, 2, 10, 23, 3, 1, 0, 20 };
         int k = 4;
 

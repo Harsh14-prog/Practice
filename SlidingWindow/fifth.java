@@ -24,7 +24,7 @@ public class fifth {
                 char leftChar = s.charAt(l);
                 freq[leftChar - 'A']--;
                 l++;
-            }
+            }  // l is changing and maxFreq is also we can get window of < k
 
             maxLength = Math.max(maxLength, h - l + 1);
             h++;

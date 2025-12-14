@@ -30,7 +30,7 @@ public class sixth {
             }
 
             // shrink window
-            while (required == 0) {   // got correct information i.e condn
+            while (required == 0) {   // got 1st correct information i.e condn
 
                 if (h - l + 1 < minLength) {   // store ans of 1st correct condn
                     minLength = h - l + 1;     // then shrink

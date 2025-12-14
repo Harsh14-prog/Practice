@@ -30,7 +30,9 @@ public class fourth {
                 l++;
             }
 
-            // valid window: all characters unique
+            // window size hi mp.size() peksha less tr kadhich asu shakat nhi
+
+            // valid window: all characters unique  , window size = mp.size()
             maxLen = Math.max(maxLen, h - l + 1);
 
             h++; 
