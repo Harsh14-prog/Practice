@@ -93,7 +93,7 @@ class LinkedList {
         }
     }
 
-        public void deleteFirst() {
+    public void deleteFirst() {
         if (head == null) {
             System.out.println("LL already empty");
             return;
