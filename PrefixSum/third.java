@@ -8,7 +8,6 @@ public class third {
 
         int[] nums = {0,0,1,1,1,1,1,0,0,1,0,0,0,0};
         int n = nums.length ;
-        int count = 0 ;
 
         int sum = 0 ;
         int maxLength = 0 ;
