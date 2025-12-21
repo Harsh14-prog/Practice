@@ -1,4 +1,5 @@
 package LinkedList.Medium;
+ 
 
 class Node {
     int data;
