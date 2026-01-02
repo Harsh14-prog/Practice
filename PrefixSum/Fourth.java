@@ -3,6 +3,10 @@ package PrefixSum;
 import java.util.HashMap;
 import java.util.Map;
 
+// 1248. Count Number of Nice Subarrays ---->>
+// Given an array of integers nums and an integer k. 
+// A continuous subarray is called nice if there are k odd numbers on it.
+
 public class Fourth {
     public static void main(String[] args) {
 
